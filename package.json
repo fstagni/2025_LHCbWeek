@@ -1,0 +1,27 @@
+{
+  "name": "DUW2025_main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "slidev build --download",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fstagni/2025_DUW_main.git"
+  },
+  "keywords": [
+    "diracx",
+    "DUW2025"
+  ],
+  "author": "Federico Stagni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fstagni/2025_DUW_main/issues"
+  },
+  "homepage": "https://github.com/fstagni/2025_DUW_main/readme",
+  "description": "",
+  "dependencies": {
+    "slidev-theme-neversink": "^0.4.0"
+  }
+}
